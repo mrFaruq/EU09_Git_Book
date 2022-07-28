@@ -2,11 +2,13 @@
 Day 2 - Notes
 
 Git:
-	a version control system
+	A version control system
 
 GitHub:
-	platform to host remote repositories
+	Platform to host remote repositories
 
 Local repository: Folder to keep track of changes locally, on each device
 
-Remote repository: folder online that keeps track of changes, but also can have changes of others
+Remote repository: Folder online that keeps track of changes, but also can have changes of others
+
+added some changes..
